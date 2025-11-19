@@ -25,7 +25,7 @@
 #         font-size: 16px;
 #     }
 #     .summary-box {
-#         background-color: #f0f2f6;
+#         background-color: #00b300;
 #         padding: 20px;
 #         border-radius: 10px;
 #         border-left: 5px solid #4CAF50;
@@ -570,4 +570,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
