@@ -443,7 +443,7 @@ st.markdown("""
     .summary-box {
         padding: 20px;
         border-radius: 10px;
-        background-color: #ffffff;
+        background-color: #00ff7f;
         box-shadow: 0 4px 6px rgba(0,0,0,0.1);
         border-left: 5px solid #FF4B4B;
     }
@@ -570,3 +570,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
